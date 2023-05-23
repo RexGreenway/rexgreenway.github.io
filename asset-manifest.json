@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.219c6507.css",
-    "main.js": "/static/js/main.90d690ae.js",
+    "main.css": "/static/css/main.5844da5e.css",
+    "main.js": "/static/js/main.77c98131.js",
     "static/media/PolyLatLib-Header.png": "/static/media/PolyLatLib-Header.eba987e3512151cc38db.png",
     "static/media/R-Logo.svg": "/static/media/R-Logo.7836903263d61dcac26d826d47b50e73.svg",
     "index.html": "/index.html",
-    "main.219c6507.css.map": "/static/css/main.219c6507.css.map",
-    "main.90d690ae.js.map": "/static/js/main.90d690ae.js.map"
+    "main.5844da5e.css.map": "/static/css/main.5844da5e.css.map",
+    "main.77c98131.js.map": "/static/js/main.77c98131.js.map"
   },
   "entrypoints": [
-    "static/css/main.219c6507.css",
-    "static/js/main.90d690ae.js"
+    "static/css/main.5844da5e.css",
+    "static/js/main.77c98131.js"
   ]
 }
