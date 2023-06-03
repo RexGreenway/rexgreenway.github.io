@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d77608a.css",
-    "main.js": "/static/js/main.4cf53e17.js",
-    "static/media/PolyLatLib-Header.png": "/static/media/PolyLatLib-Header.eba987e3512151cc38db.png",
+    "main.css": "/static/css/main.13e2deb1.css",
+    "main.js": "/static/js/main.d3dc4b11.js",
+    "static/media/kubernetes-plain.svg": "/static/media/kubernetes-plain.6fc5abac2fd5d2e75e1700a3e8321306.svg",
+    "static/media/go-original-wordmark.svg": "/static/media/go-original-wordmark.66845436a5ce2eb0795d26690a4eecf7.svg",
+    "static/media/javascript-plain.svg": "/static/media/javascript-plain.bacc3387f463f5b56f433827347c6155.svg",
     "static/media/R-Logo.svg": "/static/media/R-Logo.7836903263d61dcac26d826d47b50e73.svg",
+    "static/media/python-plain.svg": "/static/media/python-plain.5c5fa0ed4c29ace382cd6fa7af0f9a61.svg",
+    "static/media/docker-plain.svg": "/static/media/docker-plain.d89a914661df628c2e2787cbb5c92343.svg",
+    "static/media/googlecloud-plain.svg": "/static/media/googlecloud-plain.1b89220246b81142b442314bf1974dd5.svg",
     "index.html": "/index.html",
-    "main.0d77608a.css.map": "/static/css/main.0d77608a.css.map",
-    "main.4cf53e17.js.map": "/static/js/main.4cf53e17.js.map"
+    "main.13e2deb1.css.map": "/static/css/main.13e2deb1.css.map",
+    "main.d3dc4b11.js.map": "/static/js/main.d3dc4b11.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d77608a.css",
-    "static/js/main.4cf53e17.js"
+    "static/css/main.13e2deb1.css",
+    "static/js/main.d3dc4b11.js"
   ]
 }
